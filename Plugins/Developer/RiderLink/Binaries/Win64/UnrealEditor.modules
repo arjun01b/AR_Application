@@ -1,0 +1,12 @@
+{
+	"BuildId": "19505902",
+	"Modules": 
+	{
+		"RD": "UnrealEditor-RD-0114.dll",
+		"RiderBlueprint": "UnrealEditor-RiderBlueprint-0114.dll",
+		"RiderGameControl": "UnrealEditor-RiderGameControl-0114.dll",
+		"RiderLink": "UnrealEditor-RiderLink-0114.dll",
+		"RiderLogging": "UnrealEditor-RiderLogging-0114.dll",
+		"RiderShaderInfo": "UnrealEditor-RiderShaderInfo-0114.dll"
+	}
+}
